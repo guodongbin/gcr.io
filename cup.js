@@ -1,12 +1,12 @@
 {
 	"browserWindowConfig":{
-		"width":1400,
-		"height":900,
+		"width":1024,
+		"height":768,
 		"fullscreen":false,
 		"alwaysOnTop": true,
         "minimizable": false,
 		"closable":true,
-		"resizable":false,
+		"resizable":true,
 		"webPreferences": {
 	  		"webSecurity": false,
 			"nodeIntegration":false
