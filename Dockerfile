@@ -1,1 +1,1 @@
-From gcr.io/google_samples/k8szk:v1
+gcr.io/google_samples/k8skafka:v1
