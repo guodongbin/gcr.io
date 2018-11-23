@@ -3,17 +3,17 @@
 		"width":1024,
 		"height":768,
 		"fullscreen":false,
-		"alwaysOnTop": true,
-        "minimizable": false,
+		"alwaysOnTop":false,
+        "minimizable":true,
 		"closable":true,
 		"resizable":true,
 		"webPreferences": {
 	  		"webSecurity": false,
-			"nodeIntegration":false
+			"nodeIntegration":true
 	  	}
 	},
 	"otherConfig":{
-		"url":"https://ecs.qmth.com.cn:8878/oe/#/access/login?domain=cup.ecs.qmth.com.cn#top",
-		"openDevTool":false
+		"url":"https://ecs-dev.qmth.com.cn:8878/oe/login/ecs-dev.qmth.com.cn",
+		"openDevTool":true
 	}
 }
